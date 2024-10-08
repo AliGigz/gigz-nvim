@@ -22,7 +22,7 @@
     <img src="https://github.com/AliGigz/gigz-nvim/blob/main/logos/GigzNvim.png">
 </div>
 
-## Screenshots
+## 📷  Screenshots
 <div align="center">
     <img src="https://github.com/AliGigz/gigz-nvim/blob/main/screenshots/gigz-nvim-dash.png">
     <br>
@@ -36,7 +36,7 @@
     <img src="https://github.com/AliGigz/gigz-nvim/blob/main/screenshots/gigz-nvim-lua.png">
 </div>
 
-## What is GigzNvim?
+## ❓  What is GigzNvim?
 - GigzNvim is a neovim config which is very basic with most default plugin configurations. The goal of this project is to be simple and also powerfull when it comes to configuring for more uses.
 
 - GigzNvim has the basic plugins that user expect from an text-editor to have, such as themes, lsp server, syntax highliting, etc. But with all these plugins it's still very fast and loads under a second.
