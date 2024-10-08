@@ -39,4 +39,12 @@
 
 - This project is for users that wants to get into neovim. But it doesn't just stop there, it also can be used for power users of vim and neovim.
 
+## Colorschemes
+-   Catppuccin: https://github.com/catppuccin/nvim
+-   Tokyonight: https://github.com/folke/tokyonight.nvim 
+
+
+## Plugins
+- 
+
 
