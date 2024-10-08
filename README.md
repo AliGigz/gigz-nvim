@@ -1,7 +1,7 @@
 <h1 align="center">GigzNvim</h1>
 
 <div align="center">
-    <a href="#">Installation</a>
+    <a href="#Installation">Installation</a>
     <span> • </span>
     <a href="#">Contribute</a>
     <span> • </span>
@@ -37,7 +37,7 @@
 - GigzNvim is inspired by <a href="https://github.com/theprimeagen">theprimeagen</a> neovim from scratch.
 
 
-## Installation
+<h2 id="Installation">🔨  Installation</h2>
 First backup your neovim config.
 ```sh
 mv ~/.config/nvim ~/.config/nvim_back
@@ -47,7 +47,7 @@ And then enter the command below.
 git clone https://github.com/AliGigz/gigz-nvim.git ~/.config/nvim
 ```
 Now open neovim and let the magic happens.
-BTW it's a good idea to remove .git from your **~/.config/nvim**
+BTW it's a good idea to remove .git from your `~/.config/nvim`
 
 ## ✏️  Colorschemes
 -   Catppuccin: https://github.com/catppuccin/nvim
