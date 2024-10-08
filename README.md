@@ -11,7 +11,7 @@
     <p></p>
 </div>
 <div align="center">
-    ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) (https://github.com/neovim/neovim)
+    [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 </div>
 
 <div align="center">
