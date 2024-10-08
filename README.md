@@ -3,7 +3,7 @@
 <div align="center">
     <a href="https://github.com/AliGigz/gigz-nvim?tab=readme-ov-file#--installation">Installation</a>
     <span> • </span>
-    <a href="#">Contribute</a>
+    <a href="https://github.com/AliGigz/gigz-nvim?tab=readme-ov-file#--contribute">Contribute</a>
     <span> • </span>
     <a href="#">Support</a>
     <p></p>
@@ -86,4 +86,8 @@ BTW it's a good idea to remove .git from your `~/.config/nvim`
 -   Bufferline: https://github.com/akinsho/bufferline.nvim
 -   Web Devicons: https://github.com/nvim-tree/nvim-web-devicons
 -   LSP Kind: https://github.com/onsails/lspkind.nvim
+
+## 👥  Contribute
+GigzNvim is open for developers to contribute in the project. For pull requests please be as descriptive as possible. Somthing to know first is that, GigzNvim goal is to stay simple and open hand for users so please keep that in mind. And thanks for your help to make this a better project.
+
 
