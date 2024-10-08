@@ -39,6 +39,8 @@
 
 - This project is for users that wants to get into neovim. But it doesn't just stop there, it also can be used for power users of vim and neovim.
 
+- GigzNvim is inspired by <a href="https://github.com/theprimeagen">theprimeagen</a> neovim from scratch.
+
 ## ✏️  Colorschemes
 -   Catppuccin: https://github.com/catppuccin/nvim
 -   Material: https://github.com/marko-cerovac/material.nvim
