@@ -5,17 +5,17 @@
     <span> • </span>
     <a href="https://github.com/AliGigz/gigz-nvim?tab=readme-ov-file#--contribute">Contribute</a>
     <span> • </span>
-    <a href="#">Support</a>
+    <a href="https://github.com/AliGigz/gigz-nvim?tab=readme-ov-file#--support">Support</a>
     <p></p>
 </div>
 
 <div align="center">
 
-![GitHub contributors](https://img.shields.io/github/contributors/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Contributors&labelColor=%231a1b26&color=%23a9b1d6) 
-![GitHub last commit](https://img.shields.io/github/last-commit/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Last%20Commit&labelColor=%231a1b26&color=%23a9b1d6) 
-![GitHub Discussions](https://img.shields.io/github/discussions/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Discussions&labelColor=%231a1b26&color=%23a9b1d6) 
-![GitHub repo size](https://img.shields.io/github/repo-size/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Size&labelColor=%231a1b26&color=%23a9b1d6) 
-![GitHub Repo stars](https://img.shields.io/github/stars/AlIGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Stars&labelColor=%231a1b26&color=%23a9b1d6) 
+![GitHub contributors](https://img.shields.io/github/contributors/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Contributors&labelColor=%231a1b26&color=%23a9b1d6)
+![GitHub last commit](https://img.shields.io/github/last-commit/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Last%20Commit&labelColor=%231a1b26&color=%23a9b1d6)
+![GitHub Discussions](https://img.shields.io/github/discussions/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Discussions&labelColor=%231a1b26&color=%23a9b1d6)
+![GitHub repo size](https://img.shields.io/github/repo-size/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Size&labelColor=%231a1b26&color=%23a9b1d6)
+![GitHub Repo stars](https://img.shields.io/github/stars/AlIGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Stars&labelColor=%231a1b26&color=%23a9b1d6)
 
 </div>
 
@@ -100,4 +100,6 @@ BTW it's a good idea to remove .git from your `~/.config/nvim`
 ## 👥  Contribute
 GigzNvim is open for developers to contribute in the project. For pull requests please be as descriptive as possible. Somthing to know first is that, GigzNvim goal is to stay simple and open hand for users so please keep that in mind. And thanks for your help to make this a better project.
 
+## 💖  Support
+Unfotunately there is no way to support yet.
 
