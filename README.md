@@ -37,7 +37,7 @@
 - GigzNvim is inspired by <a href="https://github.com/theprimeagen">theprimeagen</a> neovim from scratch.
 
 
-<h2 id="Installation">🔨  Installation</h2>
+## 🔨  Installation
 First backup your neovim config.
 ```sh
 mv ~/.config/nvim ~/.config/nvim_back
