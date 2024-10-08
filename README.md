@@ -1,3 +1,10 @@
+<style>
+#BadgeSection > * {
+    margin: 2px;
+}
+</style>
+
+
 <h1 align="center">GigzNvim</h1>
 
 <div align="center">
@@ -9,7 +16,7 @@
     <p></p>
 </div>
 
-<div align="center">
+<div id="BadgeSection" align="center">
 
 ![GitHub contributors](https://img.shields.io/github/contributors/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Contributors&labelColor=%231a1b26&color=%23a9b1d6)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Last%20Commit&labelColor=%231a1b26&color=%23a9b1d6)
