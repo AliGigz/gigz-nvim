@@ -1,7 +1,7 @@
 <h1 align="center">GigzNvim</h1>
 
 <div align="center">
-    <a href="#Installation">Installation</a>
+    <a href="https://github.com/AliGigz/gigz-nvim?tab=readme-ov-file#--installation">Installation</a>
     <span> • </span>
     <a href="#">Contribute</a>
     <span> • </span>
