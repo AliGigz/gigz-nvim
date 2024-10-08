@@ -10,15 +10,11 @@
 </div>
 
 <div align="center">
-
-![GitHub contributors](https://img.shields.io/github/contributors/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Contributors&labelColor=%231a1b26&color=%23a9b1d6)
-<span>   </span>
-![GitHub last commit](https://img.shields.io/github/last-commit/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Last%20Commit&labelColor=%231a1b26&color=%23a9b1d6)
-<span>   </span>
-![GitHub Discussions](https://img.shields.io/github/discussions/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Discussions&labelColor=%231a1b26&color=%23a9b1d6)
-<span>   </span>
-![GitHub repo size](https://img.shields.io/github/repo-size/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Size&labelColor=%231a1b26&color=%23a9b1d6)
-![GitHub Repo stars](https://img.shields.io/github/stars/AlIGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Stars&labelColor=%231a1b26&color=%23a9b1d6)
+<img src="https://img.shields.io/github/contributors/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Contributors&labelColor=%231a1b26&color=%23a9b1d6" alt="Contributors">
+<img src="https://img.shields.io/github/last-commit/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Last%20Commit&labelColor=%231a1b26&color=%23a9b1d6" alt="Last Commit">
+<img src="https://img.shields.io/github/discussions/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Discussions&labelColor=%231a1b26&color=%23a9b1d6" alt="Discussions">
+<img src="https://img.shields.io/github/repo-size/AliGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Size&labelColor=%231a1b26&color=%23a9b1d6" alt="Repo Size">
+<img src="https://img.shields.io/github/stars/AlIGigz/gigz-nvim?style=for-the-badge&label=%EF%82%9B%20Stars&labelColor=%231a1b26&color=%23a9b1d6" alt="Repo Stars">
 
 </div>
 
