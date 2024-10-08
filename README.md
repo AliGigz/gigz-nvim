@@ -20,13 +20,10 @@
     <img src="https://github.com/AliGigz/gigz-nvim/blob/main/screenshots/gigz-nvim-dash.png">
     <br>
     <br>
-    <br>
     <img src="https://github.com/AliGigz/gigz-nvim/blob/main/screenshots/gigz-nvim-py.png">
     <br>
     <br>
-    <br>
     <img src="https://github.com/AliGigz/gigz-nvim/blob/main/screenshots/gigz-nvim-c.png">
-    <br>
     <br>
     <br>
     <img src="https://github.com/AliGigz/gigz-nvim/blob/main/screenshots/gigz-nvim-lua.png">
