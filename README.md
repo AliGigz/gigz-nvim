@@ -6,8 +6,6 @@
     <a href="#">Contribute</a>
     <span> • </span>
     <a href="#">Support</a>
-    <span> • </span>
-    <a href="#">Features</a>
     <p></p>
 </div>
 
@@ -37,6 +35,19 @@
 - This project is for users that wants to get into neovim. But it doesn't just stop there, it also can be used for power users of vim and neovim.
 
 - GigzNvim is inspired by <a href="https://github.com/theprimeagen">theprimeagen</a> neovim from scratch.
+
+
+## Installation
+First backup your neovim config.
+```sh
+mv ~/.config/nvim ~/.config/nvim_back
+```
+And then enter the command below.
+```sh
+git clone https://github.com/AliGigz/gigz-nvim.git ~/.config/nvim
+```
+Now open neovim and let the magic happens.
+BTW it's a good idea to remove .git from your **~/.config/nvim**
 
 ## ✏️  Colorschemes
 -   Catppuccin: https://github.com/catppuccin/nvim
@@ -75,6 +86,4 @@
 -   Bufferline: https://github.com/akinsho/bufferline.nvim
 -   Web Devicons: https://github.com/nvim-tree/nvim-web-devicons
 -   LSP Kind: https://github.com/onsails/lspkind.nvim
-
-
 
