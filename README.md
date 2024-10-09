@@ -118,5 +118,5 @@ rmdir /s %USERPROFILE%\AppData\Local\nvim\.git
 GigzNvim is open for developers to contribute in the project. For pull requests please be as descriptive as possible. Somthing to know first is that, GigzNvim goal is to stay simple and open hand for users so please keep that in mind. And thanks for your help to make this a better project.
 
 ## 💖  Support
-Unfotunately there is no way to support yet.
+just share it with your friends and thats it <3
 
