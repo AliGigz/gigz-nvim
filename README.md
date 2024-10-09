@@ -64,6 +64,7 @@ BTW it's a good idea to remove .git from your `~/.config/nvim`
 -   Tokyonight: https://github.com/folke/tokyonight.nvim
 -   Dracula: https://github.com/Mofiqul/dracula.nvim
 -   Github: https://github.com/projekt0n/github-nvim-theme
+-   NightOwl: https://github.com/oxfist/night-owl.nvim
 
 ## 🚀  Plugins
 -   Dashboard: https://github.com/nvimdev/dashboard-nvim
