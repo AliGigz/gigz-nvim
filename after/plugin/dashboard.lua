@@ -65,6 +65,16 @@ require("dashboard").setup{
 				key_format = ' %s', -- remove default surrounding `[]`
 				action = 'NvimTreeToggle'
 			},
+			{
+				icon = ' ',
+				icon_hl = 'Title',
+				desc = 'Quit',
+				desc_hl = 'String',
+				key = 'q',
+				keymap = '       ',
+				key_format = ' %s', -- remove default surrounding `[]`
+				action = 'q'
+			},
 		},
 		footer = dashboard_footer,
 	}
