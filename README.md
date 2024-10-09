@@ -48,32 +48,32 @@
 
 ## 🔨  Installation
 ### Unix
-    First backup your neovim config. with the command below:
-    ```sh
-    mv ~/.config/nvim ~/.config/nvim_back
-    ```
-    And then enter the command below:
-    ```sh
-    git clone https://github.com/AliGigz/gigz-nvim.git ~/.config/nvim
-    ```
-    Now remove .git from the config directory. Enter command below:
-    ```sh
-    rm -rf ~/.config/nvim/.git
-    ```
+First backup your neovim config. with the command below:
+```sh
+mv ~/.config/nvim ~/.config/nvim_back
+```
+And then enter the command below:
+```sh
+git clone https://github.com/AliGigz/gigz-nvim.git ~/.config/nvim
+```
+Now remove .git from the config directory. Enter command below:
+```sh
+rm -rf ~/.config/nvim/.git
+```
 
 ### Windows
-    First backup your neovim config. In CMD:
-    ```sh
-    move %USERPROFILE%\AppData\Local\nvim %USERPROFILE%\AppData\Local\nvim_back
-    ```
-    And then enter the command below. In CMD:
-    ```sh
-    git clone https://github.com/AliGigz/gigz-nvim.git %USERPROFILE%\AppData\Local\nvim
-    ```
-    Now remove .git from the config directory. In CMD:
-    ```sh
-    rmdir /s %USERPROFILE%\AppData\Local\nvim\.git
-    ```
+First backup your neovim config. In CMD:
+```sh
+move %USERPROFILE%\AppData\Local\nvim %USERPROFILE%\AppData\Local\nvim_back
+```
+And then enter the command below. In CMD:
+```sh
+git clone https://github.com/AliGigz/gigz-nvim.git %USERPROFILE%\AppData\Local\nvim
+```
+Now remove .git from the config directory. In CMD:
+```sh
+rmdir /s %USERPROFILE%\AppData\Local\nvim\.git
+```
 
 ## ✏️  Colorschemes
 -   Catppuccin: https://github.com/catppuccin/nvim
