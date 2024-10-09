@@ -30,7 +30,7 @@ require("dashboard").setup{
 				desc = 'Find File           ',
 				desc_hl = 'String',
 				key = 'b',
-				keymap = 'SPC f f',
+				keymap = 'SPC f f   ',
 				key_hl = 'Number',
 				key_format = ' %s', -- remove default surrounding `[]`
 				action = 'Telescope find_files'
@@ -41,7 +41,8 @@ require("dashboard").setup{
 				desc = 'Buffers',
 				desc_hl = 'String',
 				key = 'f',
-				keymap = 'SPC f d',
+				keymap = 'SPC f d   ',
+				key_hl = 'Number',
 				key_format = ' %s', -- remove default surrounding `[]`
 				action = 'Telescope buffers'
 			},
@@ -51,7 +52,8 @@ require("dashboard").setup{
 				desc = 'Old Files',
 				desc_hl = 'String',
 				key = 'r',
-				keymap = 'SPC r f',
+				keymap = 'SPC r f   ',
+				key_hl = 'Number',
 				key_format = ' %s', -- remove default surrounding `[]`
 				action = 'Telescope oldfiles'
 			},
@@ -61,7 +63,8 @@ require("dashboard").setup{
 				desc = 'Toggle NvimTree',
 				desc_hl = 'String',
 				key = 'n',
-				keymap = 'SPC t n',
+				keymap = 'SPC t n   ',
+				key_hl = 'Number',
 				key_format = ' %s', -- remove default surrounding `[]`
 				action = 'NvimTreeToggle'
 			},
@@ -71,7 +74,8 @@ require("dashboard").setup{
 				desc = 'Quit',
 				desc_hl = 'String',
 				key = 'q',
-				keymap = '       ',
+				key_hl = 'Number',
+				keymap = '          ',
 				key_format = ' %s', -- remove default surrounding `[]`
 				action = 'q'
 			},
