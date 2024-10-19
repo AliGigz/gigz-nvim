@@ -18,6 +18,12 @@ wk.add({
 	-- Toggle
 	{ "<leader>t", group = "toggle" }, -- group
 	{ "<leader>tn", "<cmd>NvimTreeToggle<cr>", desc="Toggle NvimTree", mode = "n"},
+	{ "<leader>td", "<cmd>Troube diagnostics toggle<cr>", desc="Toggle diagnostics", mode = "n"},
+
+
+	-- diagnostics
+	{ "<leader>d", group = "toggle" }, -- group
+	{ "<leader>do", "<cmd>lua vim.diagnostic.open_float()<cr>", desc="Open Diagnostic In A Window", mode = "n"},
 },
 {
 	-- Nested mappings are allowed and can be added in any order

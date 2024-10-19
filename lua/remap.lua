@@ -15,6 +15,7 @@ k.set('n', '<leader>ff', '<cmd>Telescope find_files<cr>')
 k.set('n', '<leader>fb', '<cmd>Telescope buffers<cr>')
 k.set('n', '<leader>rf', '<cmd>Telescope oldfiles<cr>')
 
--- Trouble
-k.set('n', '<leader>td', '<cmd>Trouble diagnostics<cr>')
+-- Diagnostics
+k.set('n', '<leader>td', '<cmd>Trouble diagnostics toggle<cr>')
+k.set('n', '<leader>od', '<cmd>lua vim.diagnostic.open_float()<cr>')
 
